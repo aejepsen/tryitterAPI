@@ -6,7 +6,7 @@ using tryitter.Models;
 using tryitter.Repository;
 
 namespace tryitter.Test;
-
+// ok
 public class TestTryitterContext<TEntryPoint> : WebApplicationFactory<Program> where TEntryPoint : Program
 {
 
