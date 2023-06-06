@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
-
+// ok
 namespace tryitter.Migrations
 {
     public partial class CreateTables : Migration
