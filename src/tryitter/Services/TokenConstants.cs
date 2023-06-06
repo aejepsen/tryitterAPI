@@ -1,4 +1,5 @@
 namespace tryitter.Constants
+// ok
 {
     public static class TokenConstants
     {
