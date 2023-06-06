@@ -1,4 +1,5 @@
 namespace tryitter.Entities;
+// ok.
 public class StudentResponse
 {
     public int StudentId { get; set; }

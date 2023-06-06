@@ -6,7 +6,7 @@ using tryitter.Entities;
 using System.Text.Json;
 
 namespace tryitter.Controllers;
-
+// ok
 [ApiController]
 [Route("[controller]")]
 public class StudentController : ControllerBase
