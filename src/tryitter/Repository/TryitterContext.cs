@@ -22,7 +22,7 @@ public class TryitterContext : DbContext
      
     }
   }
-
+//  ok
   protected override void OnModelCreating(ModelBuilder modelBuilder)
   {
     modelBuilder.Entity<Student>()
